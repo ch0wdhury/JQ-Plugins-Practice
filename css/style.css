@@ -1,0 +1,93 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+.parallax-window {
+    min-height: 350px;
+    background: transparent;
+}
+/* Count Section Start */
+.counts {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 700;
+	background-color: #6E6E6E;
+	padding-top: 50px;
+}
+.count_wrapper {
+	position: relative;
+	color: #fff;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+.count_wrapper1 {
+	position: relative;
+	color: #6E6E6E;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+.count_wrapper h1 {
+	font-size: 60px;
+	font-weight: 700;
+}
+.count_content h2 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 100px;
+}
+.wow {
+	font-size: 60px;
+}
+/* Count Section End */
+#appearance1 .rs-range-color  {
+    background-color: #5673E7;
+}
+#appearance1 .rs-path-color  {
+    background-color: #dedede;
+}
+#appearance1 .rs-handle  {
+    background-color: #000000;
+}
+#appearance1 .rs-border  {
+    border-color: white;
+}
+
+#appearance7 .rs-range-color  {
+    background-color: #33B5E5;
+}
+#appearance7 .rs-path-color  {
+    background-color: #C2E9F7;
+}
+#appearance7 .rs-handle  {
+    background-color: #C2E9F7;
+    padding: 7px;
+    border: 2px solid #C2E9F7;
+}
+#appearance7 .rs-handle.rs-focus  {
+    border-color: #33B5E5;
+}
+#appearance7 .rs-handle:after  {
+    border-color: #33B5E5;
+    background-color: #33B5E5;
+}
+#appearance7 .rs-border  {
+    border-color: transparent;
+}
+
+#appearance2 .rs-range-color  {
+    background-color: #ff8d00;
+}
+#appearance2 .rs-handle:after  {
+    background-color: #000000;
+}
+#appearance2 .rs-border  {
+    border-color: #ff8d00;
+}
+
+#appearance3 .rs-range-color  {
+    background-color: black;
+}
+#appearance3 .rs-handle  {
+    background-color: #fff;
+    border: 5px solid black;
+}
